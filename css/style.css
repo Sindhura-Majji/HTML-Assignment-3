@@ -1,0 +1,100 @@
+.navbar-brand img{
+	width: 130px;
+	height: 100px;	
+}
+.navbar a{
+	padding-right: 50px;
+	color: white;
+}
+.navbar{
+	background-image: linear-gradient(#0C090A,#6D6968);
+	 
+}
+
+.form-inline{
+	padding-left: 350px;
+}
+
+#carousel, #hero-image, #Latest-news{
+	padding-bottom: 50px;
+	}
+#carousel{
+	padding-top: 140px;
+}
+
+#Latest-news img{
+	width:290px;
+	height: 190px;
+}
+
+.jumbotron{
+	background: linear-gradient(#0C090A,#6D6968);
+	color: white;
+}
+
+.hero-image {
+  background-image: url("../img/two.jpg");
+  height:660px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative;
+}
+.heading{
+	font-size:50px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+#quote{
+	font-size:2rem;
+}
+.ue-button{
+	padding-left: 250px;
+}
+
+.ue{
+	text-decoration: none;
+	font-size:25px;
+	color: #C61F70;
+}
+.btn-info{
+	background-color: #C61F70;
+	border-color: pink;
+}
+
+#join{
+	background: #C61F70;
+	text-align: center;
+	font-size: 2rem;
+	color: white;
+}
+
+.hands{
+		width:15rem;
+		height:15rem;
+}
+#join{
+	width:100%;
+	height: 43rem;
+}
+
+#join-us{
+	background: #151B54;
+	text-align: center;
+	color: white;
+	font-size: 2rem;
+}
+
+#joinus{
+	padding-top: 18%;
+	text-align: center;
+}
+.footer-copyright{
+	background-color: #151B54;
+	color: white;
+}
+#footer{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
